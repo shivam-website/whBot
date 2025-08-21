@@ -2,9 +2,9 @@
   "name": "hotel-bot",
   "version": "1.0.0",
   "description": "WhatsApp-based hotel assistant using Baileys and Gemini AI",
-  "main": "index.js",
+  "main": "script.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node script.js"
   },
   "engines": {
     "node": "18.x"
